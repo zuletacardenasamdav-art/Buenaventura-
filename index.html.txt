@@ -36,69 +36,71 @@ Un espacio dedicado a resaltar el talento urbano del Pacífico colombiano.
 
 <h2 class="titulo">Descripción del Sitio Web</h2>
 
-<p class="texto">
-Este sitio web trata sobre el movimiento del trap en Buenaventura,
-destacando cómo este género musical se ha convertido en una forma
-de expresión para los jóvenes del puerto.
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Trap de Buenaventura</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1 id="greeting">Trap de Buenaventura</h1>
+</header>
+
+<section>
+
+<article>
+<h2>Origen</h2>
+
+<div class="box">
+<p>
+El trap de Buenaventura es un estilo musical urbano que nace en el
+puerto de Buenaventura, Colombia. Mezcla sonidos del trap
+estadounidense con influencias del pacífico colombiano.
 </p>
-
-<p class="texto">
-A través de sus letras, los artistas cuentan historias de barrio,
-superación, éxito y realidad social. El trap del puerto tiene
-identidad propia y representa la voz de una nueva generación.
-</p>
-
-
-<h2 class="titulo">Artistas Representativos</h2>
-
-<ul class="list-group">
-<li class="list-group-item">Tony Monta</li>
-<li class="list-group-item">Top Boy</li>
-<li class="list-group-item">El Americano 4KT</li>
-<li class="list-group-item">Leroy La L</li>
-<li class="list-group-item">Js Serna</li>
-<li class="list-group-item">Mr Plata</li>
-<li class="list-group-item">Wallace El Padrino</li>
-</ul>
-
-
-<h2 class="titulo mt-3">Imagen Representativa</h2>
-
-<img class="img-fluid rounded"
-src="https://via.placeholder.com/400x250"
-alt="Imagen representativa del trap en Buenaventura">
+</div>
 
 </article>
 
+<article>
 
-<!-- ASIDE -->
-<aside class="col-md-4 caja">
+<h2>Imagen</h2>
 
-<h3 class="titulo">Temas del Sitio</h3>
+<div class="box">
+<img class="pic"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Planet_Earth_%28cropped%29.jpg/600px-Planet_Earth_%28cropped%29.jpg">
+</div>
 
-<ul class="texto">
-<li>Historia del trap en Buenaventura</li>
-<li>Impacto en los jóvenes</li>
-<li>Influencias culturales</li>
-<li>Proyección del género</li>
-</ul>
-
-</aside>
+</article>
 
 </section>
 
+<aside>
 
-<!-- FOOTER -->
-<footer class="caja text-center mt-4">
+<h3>Características</h3>
 
-<p class="nombre"><strong>Nombre:</strong> Samuel David Zuleta</p>
-<p class="texto"><strong>Correo:</strong> zuletacardenasamdav@gmail.com</p>
-<p class="texto"><strong>Institución:</strong> Skolmi</p>
-<p class="texto">Proyecto HTML usando Bootstrap - Semana 6</p>
+<div class="box">
+<ul>
+<li>Ritmos urbanos</li>
+<li>Influencias del pacífico</li>
+<li>Letras sobre la vida en el puerto</li>
+<li>Uso de beats electrónicos</li>
+</ul>
+</div>
 
+</aside>
+
+<footer>
+<p>Trabajo de HTML y CSS - Samuel David - 2026</p>
 </footer>
 
-</div>
+</body>
+
+</html>
 
 </body>
 </html>
