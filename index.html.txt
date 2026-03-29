@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>El Trap en Buenaventura</title>
+<meta charset="utf-8">
+
+<!-- Bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- HEADER -->
+<header id="tipoletra" class="caja text-center">
+
+<h1 class="titulo">El Trap en Buenaventura: Voz del Puerto</h1>
+
+<p class="texto"><strong>Uso de Framework:</strong> Esta página utiliza Bootstrap mediante el uso de componentes.</p>
+
+<p class="texto">
+Un espacio dedicado a resaltar el talento urbano del Pacífico colombiano.
+</p>
+
+</header>
+
+
+<!-- SECCIÓN PRINCIPAL -->
+<section class="row">
+
+<!-- ARTÍCULO PRINCIPAL -->
+<article class="col-md-8 caja">
+
+<h2 class="titulo">Descripción del Sitio Web</h2>
+
+<p class="texto">
+Este sitio web trata sobre el movimiento del trap en Buenaventura,
+destacando cómo este género musical se ha convertido en una forma
+de expresión para los jóvenes del puerto.
+</p>
+
+<p class="texto">
+A través de sus letras, los artistas cuentan historias de barrio,
+superación, éxito y realidad social. El trap del puerto tiene
+identidad propia y representa la voz de una nueva generación.
+</p>
+
+
+<h2 class="titulo">Artistas Representativos</h2>
+
+<ul class="list-group">
+<li class="list-group-item">Tony Monta</li>
+<li class="list-group-item">Top Boy</li>
+<li class="list-group-item">El Americano 4KT</li>
+<li class="list-group-item">Leroy La L</li>
+<li class="list-group-item">Js Serna</li>
+<li class="list-group-item">Mr Plata</li>
+<li class="list-group-item">Wallace El Padrino</li>
+</ul>
+
+
+<h2 class="titulo mt-3">Imagen Representativa</h2>
+
+<img class="img-fluid rounded"
+src="https://via.placeholder.com/400x250"
+alt="Imagen representativa del trap en Buenaventura">
+
+</article>
+
+
+<!-- ASIDE -->
+<aside class="col-md-4 caja">
+
+<h3 class="titulo">Temas del Sitio</h3>
+
+<ul class="texto">
+<li>Historia del trap en Buenaventura</li>
+<li>Impacto en los jóvenes</li>
+<li>Influencias culturales</li>
+<li>Proyección del género</li>
+</ul>
+
+</aside>
+
+</section>
+
+
+<!-- FOOTER -->
+<footer class="caja text-center mt-4">
+
+<p class="nombre"><strong>Nombre:</strong> Samuel David Zuleta</p>
+<p class="texto"><strong>Correo:</strong> zuletacardenasamdav@gmail.com</p>
+<p class="texto"><strong>Institución:</strong> Skolmi</p>
+<p class="texto">Proyecto HTML usando Bootstrap - Semana 6</p>
+
+</footer>
+
+</div>
+
+</body>
+</html>
